@@ -1,0 +1,70 @@
+LM_PK640
+Des Moines, IA              Mon, Aug 12, 2019                  USDA Market News
+NATIONAL WEEKLY PORK REPORT FOB Plant - Export Sales
+FOR WEEK ENDING: August  9, 2019
+--------------------------------------------------------------------------------
+Total Load Count (Cuts, Trimmings, Processed): 334.40
+--------------------------------------------------------------------------------
+Weekly Pork Cuts - Export Sales FOB Plant
+
+Current Volume - (one load equals 40,000)
+  Loin                 74.39 loads       2,975,472 pounds
+  Butt                 92.22 loads       3,688,741 pounds
+  Picnic               24.50 loads         980,160 pounds
+  Rib                   6.97 loads         278,951 pounds
+  Ham                   6.68 loads         267,307 pounds
+  Belly                32.76 loads       1,310,438 pounds
+  Trimmings            55.42 loads       2,216,724 pounds
+  Variety              40.37 loads       1,614,931 pounds
+  Added Ingred          1.08 loads          43,265 pounds
+--------------------------------------------------------------------------------
+                                      Kilopounds     Price Range       Wtd Avg
+Loin
+Bnls CC Strap-on                           1,020      108.00- 191.54    150.91
+Bnls CC Strap-on, FZN                        538      100.00- 137.00    112.79
+Bnls CC Strap-off                            165      125.77- 182.00    160.32
+Bnls CC Strap-off, FZN                                      -
+Tenderloin                                   135      188.25- 251.89    216.80
+Tenderloin, FZN                                             -
+Backribs 2.0#/up 1 Pc Vac                     37      242.50- 309.55    277.31
+Backribs 2.0#/up 1 Pc Vac, FZN                              -
+--------------------------------------------------------------------------------
+Butt
+1/4 Trim Bnls Butt VAC                                      -
+1/4 Trim Bnls Butt VAC, FZN                2,519      120.00- 139.03    122.93
+Bnls CT Butt 1 Pc VAC                        567      163.00- 254.39    206.73
+Bnls CT Butt 1 Pc VAC, FZN                                  -
+--------------------------------------------------------------------------------
+Picnic
+Picnic Cushion Meat Vac                      329       97.16- 190.70    134.70
+Picnic Cushion Meat Vac, FZN                                -
+Picnic Cushion Meat Poly                                    -
+Picnic Cushion Meat Poly, FZN                545      101.85- 117.00    103.19
+--------------------------------------------------------------------------------
+Sparerib
+Trmd Sparerib - MED                                         -
+Trmd Sparerib - MED, FZN                     106      105.00- 131.30    125.92
+--------------------------------------------------------------------------------
+Ham
+Rollout Ham Bnls Boxed                                      -
+Rollout Ham Bnls Boxed, FZN                                 -
+--------------------------------------------------------------------------------
+Trim
+Picnic Meat Boxed Cushion In                 278      100.16- 217.72    135.40
+Picnic Meat Boxed Cushion In, FZN                           -
+--------------------------------------------------------------------------------
+Variety
+Brisket Bones, Full Cut, 30#                                -
+Brisket Bones, Full Cut, 30#, FZN            237       76.03-  93.75     82.63
+Front Feet, Poly                                            -
+Front Feet, Poly, FZN                        908       16.15-  83.75     52.44
+Hind Feet, Poly                                             -
+Hind Feet, Poly, FZN                         470       63.51-  74.00     71.44
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source:    USDA Livestock, Poultry & Grain Market News Division, Des Moines, IA
+           515-284-4460    email:  desm.lpgmn@ams.usda.gov
+           24 Hour recorded market information 515-284-4830
+           www.ams.usda.gov/market-news/livestock-poultry-grain
+1000C
+
